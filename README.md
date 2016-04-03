@@ -5,6 +5,7 @@ Chat bot based on [ByteScout Cloud API](https://bytescout.com/products/developer
 **Try it live in Telegram:** Add (or click) **[@bytescoutBot](https://telegram.me/bytescoutbot)**
 
 **Screenshot**
+
 ![Screenshot of Bytescout Bot in Telegram](https://github.com/bytescout/Cloud-API-Chat-Bot-For-Telegram/blob/master/bytescoutbot-telegram-screenshot-iphone.png)
 
 Copyright 2016, **ByteScout**. 
