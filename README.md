@@ -1,8 +1,8 @@
 # Chat Bot for Telegram based on ByteScout Cloud API
 
-Chat bot based on [ByteScout Cloud API](https://bytescout.com/products/developer/cloudapi/index.html) and [Microsoft Bot Framework](https://github.com/Microsoft/BotBuilder). 
+Chat bot based on [ByteScout Cloud API](https://bytescout.com/products/developer/cloudapi/index.html) and [Telegram Bot Framework](https://core.telegram.org/bots/samples). 
 
-**Try it live in Telegram:** Just add [@bytescoutBot](https://telegram.me/bytescoutbot)
+**Try it live in Telegram:** Add (or click) **[@bytescoutBot](https://telegram.me/bytescoutbot)**
 
 **Screenshot**
 ![Screenshot of Bytescout Bot in Telegram](https://github.com/bytescout/Cloud-API-Chat-Bot-For-Telegram/blob/master/bytescoutbot-telegram-screenshot-iphone.png)
