@@ -267,7 +267,7 @@ var CommandHTMLToPDF = function (chatId, text) {
             'apikey': config.ByteScoutAPIKEY,
             'input': text.trim(),
             'inputType': 'link',
-            'properties.FooterText': config.HTMLtoPDFHeaderText
+            'properties.FooterHTML': config.HTMLtoPDFHeaderText
         }
     };
 
